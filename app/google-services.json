@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "651746242992",
+    "firebase_url": "https://cvkalaoandroid.firebaseio.com",
+    "project_id": "cvkalaoandroid",
+    "storage_bucket": "cvkalaoandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651746242992:android:23f31799b0804074",
+        "android_client_info": {
+          "package_name": "com.hamptontechs.cvkalao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651746242992-1iua78sid5i8m9scbkcs1b0p6l5acbqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hamptontechs.cvkalao",
+            "certificate_hash": "e14843d8be06ab0724f336c1ac2d5dd49fdd4a97"
+          }
+        },
+        {
+          "client_id": "651746242992-si6l0jrkb7matlfik3k0vq5fv4sutq5t.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "651746242992-si6l0jrkb7matlfik3k0vq5fv4sutq5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR6zZudS84hvUhT6V3EyjSuxI5cBN4Wqs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651746242992-si6l0jrkb7matlfik3k0vq5fv4sutq5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
